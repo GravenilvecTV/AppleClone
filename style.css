@@ -1,0 +1,12 @@
+
+
+section#cover {
+    background-image: url(..);
+    background-size: cover;
+    height: 300px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position-y: -200px;
+}
